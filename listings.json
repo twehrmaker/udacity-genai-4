@@ -1,0 +1,92 @@
+[
+    {
+        "neighborhood": "Green Oaks",
+        "price": 800000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": 2000,
+        "description": "Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.",
+        "neighborhood_description": "Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze."
+    },
+    {
+        "neighborhood": "Maple Grove",
+        "price": 650000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": 2500,
+        "description": "Step into this modern 4-bedroom, 3-bathroom home located in the sought-after Maple Grove neighborhood. The open floor plan is perfect for entertaining, with a gourmet kitchen featuring stainless steel appliances and a spacious island. Relax in the luxurious master suite with a walk-in closet and a spa-like bathroom. The backyard oasis is ideal for summer BBQs and gatherings. Experience suburban luxury at its finest in Maple Grove.",
+        "neighborhood_description": "Maple Grove offers a family-friendly environment with top-rated schools, parks, and local shops. Enjoy a scenic walk around Maple Grove Lake or indulge in shopping at the nearby Maple Mall. This neighborhood provides a perfect blend of tranquility and urban convenience."
+    },
+    {
+        "neighborhood": "Riverside Heights",
+        "price": 950000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "house_size": 3500,
+        "description": "Luxury living awaits in this 5-bedroom, 4-bathroom home nestled in the prestigious Riverside Heights neighborhood. High-end finishes and designer touches adorn every corner of this spacious property. The chef's kitchen is equipped with top-of-the-line appliances and a large island. The expansive backyard features a sparkling pool and a covered patio, perfect for outdoor relaxation. Experience the epitome of elegance in Riverside Heights.",
+        "neighborhood_description": "Riverside Heights is known for its upscale living and exclusive amenities. Explore the nearby Riverside Plaza for fine dining and boutique shopping, or take a leisurely walk along the Riverside Trail. This neighborhood offers a sophisticated lifestyle with convenient access to major highways and entertainment venues."
+    },
+    {
+        "neighborhood": "Sunnyvale Meadows",
+        "price": 720000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": 2100,
+        "description": "Welcome to this charming 3-bedroom, 2-bathroom home in the desirable Sunnyvale Meadows neighborhood. The bright and airy living spaces feature vaulted ceilings, skylights, and a cozy fireplace. The updated kitchen boasts granite countertops and stainless steel appliances. Step outside to the landscaped backyard with a deck, perfect for hosting summer gatherings. Enjoy a peaceful lifestyle in Sunnyvale Meadows.",
+        "neighborhood_description": "Sunnyvale Meadows offers a tranquil setting with tree-lined streets and well-maintained parks. Residents can enjoy community events like farmers markets and outdoor concerts. Conveniently located near schools and shopping centers, this neighborhood provides a perfect balance of serenity and convenience."
+    },
+    {
+        "neighborhood": "Pine Valley",
+        "price": 550000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": 2200,
+        "description": "Discover this lovely 4-bedroom, 3-bathroom home in the picturesque Pine Valley neighborhood. The well-designed floor plan features a formal living room, a separate dining area, and a cozy family room. The spacious master suite offers a private retreat with a walk-in closet and a spa-like bathroom. Step outside to the lush backyard with a pergola and fruit trees, perfect for outdoor enjoyment. Experience serene living in Pine Valley.",
+        "neighborhood_description": "Pine Valley exudes a peaceful ambiance with scenic views of the surrounding hills and forests. Residents can explore hiking trails and nature reserves nearby. This neighborhood is a nature lover's paradise with easy access to outdoor activities and local amenities."
+    },
+    {
+        "neighborhood": "Harbor Bay",
+        "price": 880000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": 2800,
+        "description": "Live the coastal lifestyle in this stunning 4-bedroom, 3-bathroom home located in the exclusive Harbor Bay community. The bright and spacious interiors feature hardwood floors, high ceilings, and large windows that capture panoramic views of the bay. The gourmet kitchen is a chef's delight with custom cabinetry and premium appliances. Relax in the beautifully landscaped backyard with a patio and fire pit, perfect for outdoor entertaining. Experience luxury waterfront living in Harbor Bay.",
+        "neighborhood_description": "Harbor Bay offers a resort-style living experience with access to marinas, yacht clubs, and waterfront dining. Enjoy leisurely walks along the marina promenade or take a short drive to the Harbor Bay Ferry Terminal for a quick commute to the city. This neighborhood provides a perfect blend of coastal charm and urban sophistication."
+    },
+    {
+        "neighborhood": "Meadowbrook Heights",
+        "price": 680000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": 1900,
+        "description": "Step into this charming 3-bedroom, 2-bathroom home in the peaceful Meadowbrook Heights neighborhood. The inviting living room features a brick fireplace and a bay window with garden views. The updated kitchen is equipped with quartz countertops and a breakfast nook. Retreat to the backyard oasis with a deck and mature trees, offering a private and serene escape. Enjoy a relaxed lifestyle in Meadowbrook Heights.",
+        "neighborhood_description": "Meadowbrook Heights is a nature lover's paradise with walking trails, parks, and nature reserves just steps away. Residents can unwind in the community pool or enjoy a picnic in the neighborhood park. With easy access to shopping centers and schools, this neighborhood provides a mix of tranquility and convenience."
+    },
+    {
+        "neighborhood": "Golden Hills",
+        "price": 750000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": 2300,
+        "description": "Welcome to this beautiful 4-bedroom, 3-bathroom home in the sought-after Golden Hills neighborhood. The light-filled interiors showcase a blend of modern and traditional design with high ceilings and elegant finishes. The chef's kitchen features quartz countertops and a center island. Relax in the spacious master suite with a luxurious en suite bathroom. Step outside to the landscaped backyard with a pergola and fire pit, perfect for outdoor gatherings. Experience upscale living in Golden Hills.",
+        "neighborhood_description": "Golden Hills offers a prestigious lifestyle with upscale boutiques, gourmet restaurants, and cultural attractions. Residents can enjoy a round of golf at the nearby country club or take a scenic drive along the Golden Hills Parkway. This neighborhood provides a perfect combination of luxury and convenience."
+    },
+    {
+        "neighborhood": "Lakefront Estates",
+        "price": 920000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "house_size": 3200,
+        "description": "Indulge in luxury living in this expansive 5-bedroom, 4-bathroom home located in the prestigious Lakefront Estates neighborhood. The grand foyer leads to formal living and dining areas with custom millwork and designer details. The gourmet kitchen is a culinary masterpiece with high-end appliances and a breakfast nook. Retreat to the private backyard with a swimming pool and spa, perfect for outdoor relaxation. Experience grandeur and elegance in Lakefront Estates.",
+        "neighborhood_description": "Lakefront Estates is known for its upscale properties and exclusive waterfront amenities. Residents can enjoy boating, fishing, and water sports on the nearby lake or take a scenic walk along the lakeside promenade. This neighborhood offers a luxurious lifestyle with easy access to country clubs and luxury shopping destinations."
+    },
+    {
+        "neighborhood": "Mountain View Terrace",
+        "price": 690000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": 2000,
+        "description": "Discover this cozy 3-bedroom, 2-bathroom home in the tranquil Mountain View Terrace neighborhood. The inviting living spaces feature laminate flooring, a brick fireplace, and recessed lighting. The updated kitchen offers granite countertops and stainless steel appliances. Step outside to the landscaped backyard with a covered patio, ideal for al fresco dining. Enjoy a relaxed lifestyle in Mountain View Terrace.",
+        "neighborhood_description": "Mountain View Terrace provides a serene setting with panoramic views of the surrounding mountains and valleys. Residents can explore hiking and biking trails in the nearby nature preserves or unwind in the community park. With easy access to schools and shopping centers, this neighborhood offers a peaceful escape without compromising on convenience."
+    }
+]
